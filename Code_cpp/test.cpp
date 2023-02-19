@@ -10,6 +10,7 @@ int main(void)
 	carrots = carrots + 2;
 	cout << "Now you have " << carrots << " carrots." << endl;
 	cout << "你好，世界" << endl;
+	cout << "分支一，版本2" << endl;
 	system("pause");
 	return 0;
 }
